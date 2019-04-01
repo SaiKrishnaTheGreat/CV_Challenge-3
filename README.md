@@ -8,6 +8,10 @@ At construction site, count the number of trucks filled by the excavator and swi
   
   Once the template match results will be more than 70% or threshold>0.7, then swing_count will be increased by 1 and flag will be enabled. Once No Match occurs(threshold < 0.7), then flag will be disabled for swing_count increment.
   
+# Result Video:
+[![Watch the video](https://github.com/SaiKrishnaTheGreat/CV_Challenge-3/blob/master/result.mp4)
+
+  
 # Requirements:
   1. Ubuntu 16.04 (Application tested)
   2. OpenCV (Install it from source)
